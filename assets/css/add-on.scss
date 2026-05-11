@@ -1,0 +1,10 @@
+---
+---
+
+/* 한국어 줄바꿈 개선: 단어 중간에서 잘리지 않도록 */
+.site-title a,
+.site-subtitle {
+  word-break: keep-all;
+  line-break: strict;
+  overflow-wrap: break-word;
+}
