@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "🗄️ AWS 기초 스터디 Part 6. RDBMS vs NoSQL — 어떤 DB를 써야 할까?"
-date: 2026-05-16 09:00:00 +0900
 categories: [Study, Database]
 tags: [database, rdbms, nosql, dynamodb, rds, aurora, aws]
 ---

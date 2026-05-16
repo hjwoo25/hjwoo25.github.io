@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "🌐 AWS 기초 스터디 Part 2. 네트워크 기초 — OSI 7 Layer"
-date: 2026-05-12 09:00:00 +0900
 categories: [Study, Network]
 tags: [network, osi, tcp, udp, ip, layer]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "🌍 AWS 기초 스터디 Part 3. DNS — 인터넷의 전화번호부"
-date: 2026-05-13 09:00:00 +0900
 categories: [Study, Network]
 tags: [dns, network, route53, domain]
 ---

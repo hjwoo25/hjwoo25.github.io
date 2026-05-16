@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "🚀 AWS 기초 스터디 Part 4. 캐싱 — 빠른 응답의 비결"
-date: 2026-05-14 09:00:00 +0900
 categories: [Study, AWS]
 tags: [caching, cdn, redis, elasticache, aws]
 ---
