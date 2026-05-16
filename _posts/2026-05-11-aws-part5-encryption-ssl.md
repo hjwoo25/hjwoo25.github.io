@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "🔒 AWS 기초 스터디 Part 5. 암호화 & SSL/TLS — 안전한 통신의 비밀"
+date: 2026-05-11 13:00:00 +0900
 categories: [Study, Security]
 tags: [encryption, ssl, tls, https, security, aws]
 ---

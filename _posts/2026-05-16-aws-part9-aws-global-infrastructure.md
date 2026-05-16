@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "🌏 AWS 기초 스터디 Part 9. AWS 글로벌 인프라 — 리전, AZ, 엣지 로케이션"
+date: 2026-05-16 11:00:00 +0900
 categories: [Study, AWS]
 tags: [aws, region, availability-zone, edge-location, arn, 인프라]
 ---

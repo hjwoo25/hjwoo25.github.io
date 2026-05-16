@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "☁️ AWS 기초 스터디 Part 1. AWS 기초 및 핵심 서비스"
+date: 2026-05-11 09:00:00 +0900
 categories: [Study, AWS]
 tags: [aws, cloud, ec2, iam, vpc, s3, rds]
 ---
