@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "☁️ AWS 기초 스터디 Part 7. 클라우드 컴퓨팅 기초 — IaaS, PaaS, SaaS"
-date: 2026-05-17 09:00:00 +0900
 categories: [Study, AWS]
 tags: [aws, cloud, iaas, paas, saas, 클라우드]
 ---

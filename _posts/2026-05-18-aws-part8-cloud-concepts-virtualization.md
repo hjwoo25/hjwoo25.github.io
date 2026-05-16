@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "⚙️ AWS 기초 스터디 Part 8. 클라우드 핵심 개념 & 가상화"
-date: 2026-05-18 09:00:00 +0900
 categories: [Study, AWS]
 tags: [aws, cloud, 가상화, 고가용성, 탄력성, virtualization]
 ---
