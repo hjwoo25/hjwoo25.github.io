@@ -27,4 +27,4 @@ _sass/vendors
 assets/js/dist
 
 # Presentations
-presentation-aws-basics.html
+presentation-*.html
