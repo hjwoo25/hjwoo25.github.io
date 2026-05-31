@@ -4,5 +4,38 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 안녕하세요, hjwoo입니다 👋
+
+AWS 인프라와 개발을 공부하며 배운 것들을 기록하는 블로그입니다.  
+"나중에 다시 찾아보고 싶은 내용을 정리한다"는 마음으로 글을 씁니다.
+
+---
+
+## 이 블로그에 대해
+
+### 주요 주제
+
+- **AWS / 클라우드 인프라** — EC2, IAM, VPC, S3 등 AWS 핵심 서비스 정리
+- **네트워크 기초** — OSI 7계층, DNS, SSL/TLS, 캐싱 등 인프라의 기반 개념
+- **데이터베이스** — RDBMS vs NoSQL, 설계 원칙, 실전 활용
+
+### 글 쓰는 방식
+
+단순 스펙 나열보다는 **비유와 예시** 중심으로 씁니다.  
+"이걸 왜 쓰는가"를 먼저 이해하고, 그 위에 기술적인 내용을 쌓는 방식을 선호합니다.
+
+---
+
+## 시리즈 목록
+
+| 시리즈 | 내용 |
+|---|---|
+| **AWS 기초 스터디** | AWS 서비스를 처음부터 체계적으로 정리 (진행 중) |
+| **네트워크 기초** | 클라우드를 이해하기 위한 네트워크 개념 |
+
+---
+
+## 연락처
+
+- **GitHub:** [github.com/hjwoo25](https://github.com/hjwoo25)
+- **Email:** whjhjhj25@gmail.com
