@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🏰 AWS 기초 스터디 Part 28. S3 권한 관리"
-date: 2026-07-20 13:30:00 +0900
+date: 2026-07-20 07:30:00 +0900
 categories: [Study, AWS]
 tags: [aws, s3, iam, bucket-policy, acl, security, public-access]
 ---

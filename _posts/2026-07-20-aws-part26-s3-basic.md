@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🏰 AWS 기초 스터디 Part 26. Amazon S3 기초"
-date: 2026-07-20 13:10:00 +0900
+date: 2026-07-20 07:10:00 +0900
 categories: [Study, AWS]
 tags: [aws, s3, bucket, object, durability, storage]
 ---

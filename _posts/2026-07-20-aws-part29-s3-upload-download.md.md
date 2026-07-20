@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🏰 AWS 기초 스터디 Part 29. S3 업로드/다운로드"
-date: 2026-07-20 13:40:00 +0900
+date: 2026-07-20 07:40:00 +0900
 categories: [Study, AWS]
 tags: [aws, s3, presigned-url, multipart-upload, upload, download]
 ---
